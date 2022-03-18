@@ -1,0 +1,3 @@
+<h1> Non-Linear Project </h1>
+
+For my non-linear project I was thinking of creating some type of simulation. The game will be based on the consiparacy theory of living in a simulation, with of course some fantasy elements. Some options that the character or player will be chosingif they eaith want to take a pill or not, this pill would affect their past and future. Some decision would affect the outcome of the character/player’s future, they could get stuck in an endless loop or learning the “truth” of the world (that is we are currently living in a stimulation). In this game I want it to have 4-5 endings. Im still not sure how the appearance of the game would look like.
