@@ -1,0 +1,2 @@
+<h1>Project 4 Proposal</h1>
+For my porfolio project, what I will do is that each project will be in the homepage, they will be displayed like a slideshow. The pictures will automatically change or can be done by pressing an arrow and each image will be in chronological order. In the top left corner my name will appear and in the bottom left the date will be added when the project was completed or due. 
